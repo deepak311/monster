@@ -6,8 +6,9 @@ namespace MonsterConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             Console.WriteLine("This is Monster 2.0!");
+            Console.WriteLine("Press any key to exit.");
+            Console.Read();
         }
     }
 }
